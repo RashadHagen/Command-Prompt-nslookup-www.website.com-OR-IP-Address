@@ -36,12 +36,12 @@ This project goes over using the command prompt: nslookup.  There ae two command
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>nslookup (www.website.com) = queries DNS to find the IP address associated with a domain name</b></span>  
-<br/> 
+<br/><br/>
 
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>nslookup (IP Address) = queries DNS to find the website address associated with an IP address</b></span>  
-<br/><br/>
+<br/><br/><br/><br/>
 
 
 <div style="text-align:center;">
