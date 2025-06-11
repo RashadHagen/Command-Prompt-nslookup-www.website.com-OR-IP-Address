@@ -1,4 +1,4 @@
-<h1>Command Prompt – Type: nslookup (website address)  (OR)  nslookup (IP Address)</h1>
+<h1>Command Prompt – nslookup (website address)  (OR)  nslookup (IP Address)</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
