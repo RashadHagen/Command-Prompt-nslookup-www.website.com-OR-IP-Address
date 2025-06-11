@@ -66,7 +66,7 @@ This project goes over using the command prompt: nslookup.  There ae two command
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: nslookup (www.website.com)</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: nslookup (website address)</b></span>  
 <br/><br/>
 
 <div style="text-align:center;">
